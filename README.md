@@ -41,7 +41,7 @@ the chat.
 
 # The Website
 CoviBot has its own place on the web! We have made a website, made fully with python dash html components which will display our bot features in a website view. It has the Covid snapshots of the world, five day forecast predictions and a map with all the vaccination centres in India. The website has the link to add the discord bot to the server you like.
-The Website
+# Source Code
 All source codes are uploaded on a git on GitHub which has the link:
 # Questions:
 1)  Why did we decide to do this project?
